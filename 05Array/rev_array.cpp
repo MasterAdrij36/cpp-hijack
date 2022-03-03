@@ -20,5 +20,6 @@ int main() {
 		cout<<arr[i];
 	}
 	cout<<"\n";
+	cout<<"\n";
 	return 0;
 }
