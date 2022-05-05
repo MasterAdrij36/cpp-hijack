@@ -13,4 +13,4 @@ int main() {
     cin>>n;
     cout<<SumRecN3(n)<<"\n";
     return 0;
-}
+} 
